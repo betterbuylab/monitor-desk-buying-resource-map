@@ -1,29 +1,27 @@
 {
   "repoName": "monitor-desk-buying-resource-map",
-  "description": "Maps gaming monitor, 4K monitor, budget gaming monitor, desk depth, and paired desk setup decisions.",
+  "shortDescription": "Better Buy Lab resource map for monitor, desk setup, refresh rate, GPU, keyboard, mouse, and display buying decisions.",
+  "description": "Better Buy Lab resource map for monitor, desk setup, refresh rate, GPU, keyboard, mouse, and display buying decisions.",
   "homepage": "https://www.betterbuylab.com/monitors",
   "topics": [
+    "betterbuylab",
+    "buying-guides",
+    "product-research",
+    "monitors",
     "gaming-monitor",
     "4k-monitor",
     "desk-setup",
-    "refresh-rate",
-    "buying-guides",
-    "product-research",
-    "betterbuylab",
-    "pc-gaming"
+    "buyer-fit",
+    "consumer-tech",
+    "display"
   ],
   "visibility": "public",
   "pinnedRecommendation": true,
+  "profilePurpose": "Monitor and desk display buying paths with paired peripheral overlap notes.",
   "primaryWebsitePages": [
     "/monitors",
     "/monitors/best-gaming-monitors",
-    "/monitors/best-4k-monitors",
-    "/monitors/best-budget-gaming-monitors"
+    "/monitors/best-4k-monitors"
   ],
-  "siblingRepos": [
-    "better-buy-lab-resources",
-    "keyboard-mouse-desk-resource-map",
-    "tv-buying-guide-resource-map"
-  ],
-  "complianceNotes": "Scoped README links only; no live price language."
+  "complianceNotes": "Commerce-free guides unless site manifest expands; no benchmark claims."
 }
