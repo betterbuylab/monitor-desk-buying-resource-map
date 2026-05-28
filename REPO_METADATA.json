@@ -1,0 +1,29 @@
+{
+  "repoName": "monitor-desk-buying-resource-map",
+  "description": "Maps gaming monitor, 4K monitor, budget gaming monitor, desk depth, and paired desk setup decisions.",
+  "homepage": "https://www.betterbuylab.com/monitors",
+  "topics": [
+    "gaming-monitor",
+    "4k-monitor",
+    "desk-setup",
+    "refresh-rate",
+    "buying-guides",
+    "product-research",
+    "betterbuylab",
+    "pc-gaming"
+  ],
+  "visibility": "public",
+  "pinnedRecommendation": true,
+  "primaryWebsitePages": [
+    "/monitors",
+    "/monitors/best-gaming-monitors",
+    "/monitors/best-4k-monitors",
+    "/monitors/best-budget-gaming-monitors"
+  ],
+  "siblingRepos": [
+    "better-buy-lab-resources",
+    "keyboard-mouse-desk-resource-map",
+    "tv-buying-guide-resource-map"
+  ],
+  "complianceNotes": "Scoped README links only; no live price language."
+}

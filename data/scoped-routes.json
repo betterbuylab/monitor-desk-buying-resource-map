@@ -1,0 +1,78 @@
+{
+  "guides": [
+    {
+      "path": "/monitors",
+      "url": "https://www.betterbuylab.com/monitors",
+      "pageType": "category"
+    },
+    {
+      "path": "/monitors/best-gaming-monitors",
+      "url": "https://www.betterbuylab.com/monitors/best-gaming-monitors",
+      "pageType": "buying-guide"
+    },
+    {
+      "path": "/monitors/best-4k-monitors",
+      "url": "https://www.betterbuylab.com/monitors/best-4k-monitors",
+      "pageType": "buying-guide"
+    },
+    {
+      "path": "/monitors/best-budget-gaming-monitors",
+      "url": "https://www.betterbuylab.com/monitors/best-budget-gaming-monitors",
+      "pageType": "buying-guide"
+    }
+  ],
+  "productNotes": [
+    {
+      "path": "/reviews/acer-nitro-xv275k-p5biipruzx",
+      "url": "https://www.betterbuylab.com/reviews/acer-nitro-xv275k-p5biipruzx"
+    },
+    {
+      "path": "/reviews/aoc-q27g3xmn",
+      "url": "https://www.betterbuylab.com/reviews/aoc-q27g3xmn"
+    },
+    {
+      "path": "/reviews/aoc-q27g40xmn",
+      "url": "https://www.betterbuylab.com/reviews/aoc-q27g40xmn"
+    },
+    {
+      "path": "/reviews/asus-rog-swift-oled-pg27ucdm",
+      "url": "https://www.betterbuylab.com/reviews/asus-rog-swift-oled-pg27ucdm"
+    },
+    {
+      "path": "/reviews/asus-rog-zephyrus-g14",
+      "url": "https://www.betterbuylab.com/reviews/asus-rog-zephyrus-g14"
+    },
+    {
+      "path": "/reviews/dell-alienware-aw2725df",
+      "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw2725df"
+    },
+    {
+      "path": "/reviews/dell-alienware-aw2725dm",
+      "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw2725dm"
+    },
+    {
+      "path": "/reviews/dell-alienware-aw2725q",
+      "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw2725q"
+    },
+    {
+      "path": "/reviews/dell-alienware-aw3225dm",
+      "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw3225dm"
+    },
+    {
+      "path": "/reviews/dell-alienware-aw3425dwm",
+      "url": "https://www.betterbuylab.com/reviews/dell-alienware-aw3425dwm"
+    },
+    {
+      "path": "/reviews/dell-s2725qc",
+      "url": "https://www.betterbuylab.com/reviews/dell-s2725qc"
+    },
+    {
+      "path": "/reviews/dell-u2725qe",
+      "url": "https://www.betterbuylab.com/reviews/dell-u2725qe"
+    },
+    {
+      "path": "/reviews/koorui-s2741lm",
+      "url": "https://www.betterbuylab.com/reviews/koorui-s2741lm"
+    }
+  ]
+}

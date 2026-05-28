@@ -1,0 +1,38 @@
+{
+  "website": [
+    {
+      "url": "https://www.betterbuylab.com/monitors",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/monitors"
+    },
+    {
+      "url": "https://www.betterbuylab.com/monitors/best-gaming-monitors",
+      "anchor": "Better Buy Lab monitors guide",
+      "path": "/monitors/best-gaming-monitors"
+    },
+    {
+      "url": "https://www.betterbuylab.com/monitors/best-4k-monitors",
+      "anchor": "Better Buy Lab monitors guide",
+      "path": "/monitors/best-4k-monitors"
+    },
+    {
+      "url": "https://www.betterbuylab.com/monitors/best-budget-gaming-monitors",
+      "anchor": "Better Buy Lab monitors guide",
+      "path": "/monitors/best-budget-gaming-monitors"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/betterbuylab/better-buy-lab-resources",
+      "anchor": "central hub"
+    },
+    {
+      "url": "https://github.com/betterbuylab/keyboard-mouse-desk-resource-map",
+      "anchor": "keyboard-mouse-desk-resource-map"
+    },
+    {
+      "url": "https://github.com/betterbuylab/tv-buying-guide-resource-map",
+      "anchor": "tv-buying-guide-resource-map"
+    }
+  ]
+}
